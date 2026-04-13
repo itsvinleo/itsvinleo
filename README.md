@@ -51,13 +51,13 @@ I am an undergraduate studying in the Singapore University of Technology and Des
 <b>My GitHub Stats</b>
 
 <a
-                      href="http://www.github.com/vincentleooo"><img src="https://github-readme-stats.vercel.app/api?username=vincentleooo&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="vincentleooo's GitHub stats" /></a>
+                      href="http://www.github.com/itsvinleo"><img src="https://github-readme-stats.vercel.app/api?username=itsvinleo&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="itsvinleo's GitHub stats" /></a>
                       
 <a
-                      href="http://www.github.com/vincentleooo"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=vincentleooo&stroke=000000&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=000000&currStreakLabel=ef4444&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+                      href="http://www.github.com/itsvinleo"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=itsvinleo&stroke=000000&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=000000&currStreakLabel=ef4444&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
                   
 <a
-                      href="http://www.github.com/vincentleooo"><img src="https://activity-graph.herokuapp.com/graph?username=vincentleooo&bg_color=ffffff&color=000000&line=0891b2&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+                      href="http://www.github.com/itsvinleo"><img src="https://activity-graph.herokuapp.com/graph?username=itsvinleo&bg_color=ffffff&color=000000&line=0891b2&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-![](https://komarev.com/ghpvc/?username=vincentleooo)
+![](https://komarev.com/ghpvc/?username=itsvinleo)
